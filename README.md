@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **an e-commerce project**
 
-- 🌱 I’m currently learning **a little of AWS, Spree Commerce, JQuery, and everything I can!**
+- 🌱 I’m currently learning **a little of Figma, JQuery, React, and everything I can!**
 
-- 👨‍💻 All of my projects are available at [https://coke1412.github.io/portfolio/](https://coke1412.github.io/portfolio/)
+- 👨‍💻 All of my projects are available here and at [https://coke1412.github.io/portfolio/](https://coke1412.github.io/portfolio/)
 
 - 💬 Ask me about **anything you want :D**
 
