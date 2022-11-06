@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge :D!</h1>
-<h3 align="center">A Full-Stack Ruby on Rails Developer from Chile</h3>
+<h3 align="center">A Translator//Ruby on Rails Full-Stack Developer//UX-UI Desginer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coke1412&label=Profile%20views&color=0e75b6&style=flat" alt="coke1412" /> </p>
 
